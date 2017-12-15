@@ -108,3 +108,9 @@ venv.bak/
 
 SVM/*
 !SVM/code
+
+CNN/*
+!CNN/Example Predictions
+!CNN/*.sh
+!CNN/*.py
+
