@@ -1,6 +1,8 @@
 # sign-language-character-recognition
 American Sign Language Character Recognition
 
+The paper on this work is published [here](https://link.springer.com/chapter/10.1007/978-981-10-5547-8_42).
+
 # Setup and Usage
 The repository contains the following two approaches to classify the sign language(ASL) characters (static).
 
@@ -150,6 +152,6 @@ Run the following command
 ```
 python predict.py
 ```
-The output will be a image and its prediction.
+The output will be the image and its prediction.
 
 ![](CNN/Example%20Predictions/2.png)
