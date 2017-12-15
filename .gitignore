@@ -105,3 +105,6 @@ venv.bak/
 .mypy_cache/
 
 # End of https://www.gitignore.io/api/python
+
+SVM/*
+!SVM/code
