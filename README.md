@@ -3,6 +3,8 @@ American Sign Language Character Recognition
 
 The paper on this work is published [here](https://link.springer.com/chapter/10.1007/978-981-10-5547-8_42).
 
+Do cite this paper, if you find it useful. :)
+
 # Setup and Usage
 The repository contains the following two approaches to classify the sign language(ASL) characters (static).
 
