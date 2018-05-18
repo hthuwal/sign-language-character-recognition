@@ -5,6 +5,10 @@ The paper on this work is published [here](https://link.springer.com/chapter/10.
 
 Do cite this paper, if you find it useful. :)
 
+# Datset Used
+
+The dataset can be found [here](http://www.massey.ac.nz/~albarcza/gesture_dataset2012.html). Do cite their work if you plan to use their dataset.
+
 # Setup and Usage
 The repository contains the following two approaches to classify the sign language(ASL) characters (static).
 
